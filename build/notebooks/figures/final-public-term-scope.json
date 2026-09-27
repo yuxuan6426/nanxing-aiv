@@ -1,0 +1,40 @@
+{
+  "id": "final-public-term-scope",
+  "caption": "各学期的学生Q回合与学生—学期规模；两图分别保留观察单位。",
+  "kind": "real",
+  "notebook": "08_真实数据与封存记录.ipynb",
+  "notebook_code_sha256": "0a5ccbf755a80d0de53aab2df5e965989c150e84ee04fb63db6e35a550988230",
+  "rendering": {
+    "raster_dpi": 600,
+    "fonts": {
+      "chinese": "SimSun",
+      "latin_and_digits": "Times New Roman"
+    },
+    "pdf_fonttype": 42,
+    "svg_fonttype": "path",
+    "inline_dpi": 120.0
+  },
+  "files": {
+    "pdf": "figures/final-public-term-scope.pdf",
+    "svg": "figures/final-public-term-scope.svg",
+    "png": "figures/final-public-term-scope.png"
+  },
+  "sources": [
+    {
+      "path": "results/final-analysis/descriptive.csv",
+      "sha256": "6d868656aa33bc5299ce6e6ff19643eebf3ba2d4ba23f557642ba552dd0cc686"
+    },
+    {
+      "path": "results/final-analysis/summary.json",
+      "sha256": "a181f0840a47c129aeb148f1ea5b36c5941a0943cd5fb1ebfa2acd8bfc28a64c"
+    },
+    {
+      "path": "aiv/notebook_materials.py",
+      "sha256": "7f5b20d6bc09fe23ef78e78e116e4af86cec96016f535384e8bdbd305dbd2cbc"
+    },
+    {
+      "path": "aiv/figure_style.py",
+      "sha256": "c458651bf444b2dd7ca16b47cbb59fdcd6efcee321883991db4526a6446f46a8"
+    }
+  ]
+}
